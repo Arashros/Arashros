@@ -1,5 +1,5 @@
 
-# Hi, I'm Arash RostamiAsrAbadi 👋
+# Hi, I'm Arash Rostami 👋
 
 Biomedical Engineering graduate from **Shahid Beheshti University (SBU)**, focused on **computational data analysis**, **structural neuroimaging**, and **applied biomedical instrumentation**.
 
